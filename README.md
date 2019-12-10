@@ -1,2 +1,2 @@
-# serializable
-based on https://github.com/vitchyr/serializable
+# Serializable
+Utilities for handling serializable classes.
